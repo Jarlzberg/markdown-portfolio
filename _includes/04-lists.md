@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+This will be a list: 
+* Hello
+* Howdy
+* How you doing
+  * Indent
+  * Ojojoj
